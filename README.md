@@ -1,5 +1,4 @@
 # Data-Analytics-and-Visualization
-# Data Analytics and Visualization Assessment
 
 https://colab.research.google.com/drive/1IqLlpUCqI-m1S80VKXv9XfLNhYHysTup#scrollTo=1dgJJF_vcB3o
 
