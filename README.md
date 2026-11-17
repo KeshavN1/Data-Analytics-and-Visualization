@@ -1,7 +1,7 @@
 # Data-Analytics-and-Visualization
 # Data Analytics and Visualization Assessment
 
-[![Open In Colab](https://google.com)](https://google.com)
+https://colab.research.google.com/drive/1IqLlpUCqI-m1S80VKXv9XfLNhYHysTup#scrollTo=1dgJJF_vcB3o
 
 ## Project Overview
 This repository contains my submission for the **Data Analytics and Visualization** assessment. The project explores, cleans, analyses, and visualises a real-world dataset to uncover actionable insights and patterns using Python in Google Colab.
