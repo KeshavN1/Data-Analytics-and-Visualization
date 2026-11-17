@@ -38,12 +38,3 @@ This repository contains my submission for the **Data Analytics and Visualizatio
      ```
    * Open the `.ipynb` file in Jupyter Notebook or VS Code and run all cells.
 
-## Key Findings
-* **[Insight 1]:** *Briefly summarise your first major finding or trend here.*
-* **[Insight 2]:** *Briefly summarise your second major finding or correlation here.*
-* **[Insight 3]:** *Briefly summarise your recommendation or final conclusion here.*
-
-## Author
-* **Name:** [Your Full Name]
-* **Course / Module:** Data Analytics and Visualization
-* **Date:** November 2026
